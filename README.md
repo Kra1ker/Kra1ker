@@ -12,12 +12,12 @@ Most of my repositories are small-to-mid scale projects created to explore speci
 **Tech & tools:**
 - Unity (main engine)
 - C#
-- Basic experience with Unreal Engine
-- Miro for design, planning, and system breakdowns
+- Unreal Engine (Blueprints)
+- Miro / Jira / Trello
 
-I’ve built around **10–15 project repositories**, some of them are private.
+I’ve built around **10-15 project repositories**, some of them are private.
 
-📫 Contacts are available on my profile — feel free to reach out.
+📫 Contacts are available on my profile - feel free to reach out.
 
 <!--
 **Kra1ker/Kra1ker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
